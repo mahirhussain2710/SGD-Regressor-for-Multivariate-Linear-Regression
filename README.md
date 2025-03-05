@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/26c58452-aa62-40a4-b5bc-4f828e74e73e)# SGD-Regressor-for-Multivariate-Linear-Regression
-
+# SGD-Regressor-for-Multivariate-Linear-Regression
 ## AIM:
 To write a program to predict the price of the house and number of occupants in the house with SGD regressor.
 
@@ -61,7 +60,7 @@ print("\nPredictions:\n",Y_pred[:5])
 ```
 
 ## Output:
-[Screenshot 2025-03-05 092724](https://github.com/user-attachments/assets/bb6032be-d402-4b3d-b4db-d19e1e16309b)
+![Screenshot 2025-03-05 092724](https://github.com/user-attachments/assets/f726a7e0-d05e-46f5-ba98-82fc882f6248)
 
 ## Result:
 Thus the program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor is written and verified using python programming.
